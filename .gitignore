@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#data
+pytorch/nlp/data
+pytorch/vision/data
+
+# projects
+cs230-env
